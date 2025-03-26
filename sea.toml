@@ -1,0 +1,2 @@
+[sea-orm-cli]
+url = "postgres://postgres:password@localhost/rust_auth_db"
